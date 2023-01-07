@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/
+/mall-parent/mall-parent.iml
+/mall-parent/mall-service-api/mall-service-api.iml
+/mall-parent/mall-service-api/mall-service-api-weixin/mall-service-api-weixin.iml
+/mall-parent/mall-service-impl/mall-service-weixin/mall-service-weixin.iml
+/mall-parent/mall-service-impl/mall-service-impl.iml
+/mall-parent/mall-service-api/mall-service-api-member/mall-service-api-member.iml
+/mall-parent/mall-service-impl/mall-service-member/mall-service-member.iml
+/mall-parent/mall-service-base/mall-service-base.iml
